@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { text-align: center; font-family: Arial; }
+    h1 { color: red; animation: blink 1s infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .fireworks { animation: explode 2s infinite; color: orange; }
+    @keyframes explode { 50% { transform: scale(1.5); } }
+  </style>
+</head>
+<body>
+  <h1>I Love You Mithra Pondatti ❤️</h1>
+  <div class="fireworks">🎆🎆🎆</div>
+</body>
+</html>
